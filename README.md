@@ -2,13 +2,16 @@
 
 This project is about how to drive rc car online ,global web site , with video streaming.
 
+Video demonstration
+https://youtu.be/ASDACCriIlc
+
 # Instruction
 
 Used hardware : uvc fpv camera usb receiver,fpv webcam, wltoys rc car , esp32 dev board ,nrf24l01 wireless module
 
 1)
 - Flash micropython firmware on esp32 dev board
-- Put "main.py", "rc.py","regs.py" and "server.py" in esp32 board with micropython firmware
+- Put "main.py", "rc.py","regs.py" and "server.py" from "wltoys-v202-micropython" directory to esp32 board with micropython firmware
 - Connect nrf pins correctly(we use software spi) 'miso': 32, 'mosi': 33, 'sck': 25, 'csn': 26, 'ce': 27
 
 
