@@ -2,7 +2,7 @@
 
 This project is about how to drive rc car online ,global web site , with video streaming.
 
-Video deminstration
+Video demonstration
 https://youtu.be/ASDACCriIlc
 
 # Instruction
