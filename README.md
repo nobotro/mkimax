@@ -43,19 +43,19 @@ after 60 sec driver will be next user.
 
 6)Used libraries
 
-- Broadway-for front side h264 decode and play
+- Broadway - for front side h264 decode and play
   - https://github.com/mbebenita/Broadway
   
-- libuvc-for capture frames from uvc fpv camera usb receiver
+- libuvc - for capture frames from uvc fpv camera usb receiver
   - https://github.com/libuvc/libuvc
   
-- libswscale-for converting frame from yuyv to YUV420p 
+- libswscale - for converting frame from yuyv to YUV420p 
   - https://ffmpeg.org/libswscale.html
   
-- libx264-for encode YUV420p frame to .h264
+- libx264 - for encode YUV420p frame to .h264
   - https://videolan.org/developers/x264.html
 
-- tornado-python module for web server,it can handle websocket and webrequests same time
+- tornado - python module for web server,it can handle websocket and webrequests same time
   - https://www.tornadoweb.org
  
 
