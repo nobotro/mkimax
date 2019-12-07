@@ -40,6 +40,23 @@ Used hardware : uvc fpv camera usb receiver,fpv webcam, wltoys rc car , esp32 de
 after 60 sec driver will be next user.
 - Users ordered by consecutive
 - Users also can chat with each other
+
+6)Used libraries
+
+- Broadway-for front side h264 decode and play
+  - https://github.com/mbebenita/Broadway
+  
+- libuvc-for capture frames from uvc fpv camera usb receiver
+  - https://github.com/libuvc/libuvc
+  
+- libswscale-for converting frame from yuyv to YUV420p 
+  - https://ffmpeg.org/libswscale.html
+  
+- libx264-for encode YUV420p frame to .h264
+  - https://videolan.org/developers/x264.html
+
+- tornado-python module for web server,it can handle websocket and webrequests same time
+  - https://www.tornadoweb.org
  
 
 
