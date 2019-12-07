@@ -34,14 +34,14 @@ Used hardware : uvc fpv camera usb receiver,fpv webcam, wltoys rc car , esp32 de
 - Go to your global website and start driving
 
 5)
-
 - Webserver is multi user so many user can go to website same time
 - Drivers will by queueing to drive car.each driver have 60 sec to drive,
 after 60 sec driver will be next user.
 - Users ordered by consecutive
 - Users also can chat with each other
 
-6)Used libraries
+6)
+Used libraries
 
 - Broadway - for front side h264 decode and play
   - https://github.com/mbebenita/Broadway
