@@ -7,7 +7,7 @@ https://youtu.be/ASDACCriIlc
 
 # Instruction
 
-Used hardware : uvc fpv camera usb receiver,fpv webcam, wltoys rc car , esp32 dev board ,nrf24l01 wireless module
+Used hardware : uvc fpv camera usb receiver,fpv camera, wltoys rc car , esp32 dev board ,nrf24l01 wireless module
 
 1)
 - Flash micropython firmware on esp32 dev board
