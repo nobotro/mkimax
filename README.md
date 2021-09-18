@@ -58,5 +58,4 @@ Used libraries
 - tornado - python module for web server,it can handle websocket and webrequests same time
   - https://www.tornadoweb.org
  
-If you want to buy me coffee or beer https://paypal.me/nobotro
-
+ 
