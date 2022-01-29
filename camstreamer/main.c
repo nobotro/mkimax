@@ -7,8 +7,7 @@
 #include <netinet/in.h> 
 #include <stdlib.h> 
 
-#define SERVER_IP "35.198.140.227"
-//#define SERVER_IP "127.0.0.1"
+#define SERVER_IP "127.0.0.1"
 
 #define SERVER_PORT 1327
 #define MAX_CHUNK_SIZE 50000
